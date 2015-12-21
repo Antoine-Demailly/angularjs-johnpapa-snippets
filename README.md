@@ -4,7 +4,7 @@ A set of AngularJS snippets based on John Papa's style guide.
 
 ### Snippets
 
-You can use the following snippets in JavaScript.
+You can use the following snippets in JavaScript files.
 
 ##### ngmodule
 ``` javascript
