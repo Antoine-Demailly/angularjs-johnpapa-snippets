@@ -1,4 +1,4 @@
-# angularjs-styleguide-snippets package
+# angularjs-johnpapa-snippets package
 
 A set of AngularJS snippets based on John Papa's style guide.
 
@@ -7,7 +7,7 @@ A set of AngularJS snippets based on John Papa's style guide.
 You can use the following snippets in JavaScript.
 
 ##### ngmodule
-```
+``` javascript
 (function() {
     'use strict';
 
@@ -19,7 +19,7 @@ You can use the following snippets in JavaScript.
 ```
 
 ##### ngcontroller
-```
+``` javascript
 (function() {
     'use strict';
 
@@ -43,7 +43,7 @@ You can use the following snippets in JavaScript.
 ```
 
 ##### ngfactory
-```
+``` javascript
 (function() {
     'use strict';
 
@@ -69,7 +69,7 @@ You can use the following snippets in JavaScript.
 ```
 
 ##### ngdirective
-```
+``` javascript
 (function() {
     'use strict';
 
@@ -113,7 +113,7 @@ You can use the following snippets in JavaScript.
 ```
 
 ##### ngservice
-```
+``` javascript
 (function() {
     'use strict';
 
@@ -135,7 +135,7 @@ You can use the following snippets in JavaScript.
 ```
 
 ##### ngfilter
-```
+``` javascript
 (function() {
     'use strict';
 
