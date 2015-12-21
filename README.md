@@ -1,6 +1,6 @@
 # AngularJS John Papa snippets package
 
-A set of AngularJS snippets based on John Papa's style guide.
+A set of AngularJS snippets based on [John Papa's style guide].
 
 ### Snippets
 
@@ -154,3 +154,6 @@ You can use the following snippets in JavaScript files.
   }
 })();
 ```
+
+
+[john papa's style guide]: <https://github.com/johnpapa/angular-styleguide>
