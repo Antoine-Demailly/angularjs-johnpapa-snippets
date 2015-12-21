@@ -3,25 +3,25 @@
     'prefix': 'ngfactory'
     'body': """
       (function() {
-          'use strict';
+        'use strict';
 
-          angular
-              .module('${1:module}')
-              .factory('${2:factory}', ${2:factory});
+        angular
+          .module('${1:module}')
+          .factory('${2:factory}', ${2:factory});
 
-          ${2:factory}.$inject = ['${3:dependencies}'];
+        ${2:factory}.$inject = ['${3:dependencies}'];
 
-          /* @ngInject */
-          function ${2:factory}(${3:dependencies}) {
-              var service = {
-                  ${4:function}: ${4:function}
-              };
+        /* @ngInject */
+        function ${2:factory}(${3:dependencies}) {
+          var service = {
+            ${4:function}: ${4:function}
+          };
 
-              return service;
+          return service;
 
-              function ${4:function}() {
+          function ${4:function}() {
 
-              }
           }
+        }
       })();
     """
