@@ -15,9 +15,9 @@
         function ${2:Controller}(${3:dependencies}) {
           var vm = this;
 
-          vm.example = example;
+          vm.${4:example} = ${4:example};
 
-          function example() {
+          function ${4:example}() {
 
           }
         }
