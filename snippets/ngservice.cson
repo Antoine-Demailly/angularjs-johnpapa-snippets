@@ -13,6 +13,8 @@
 
         /* @ngInject */
         function ${2:Service}(${3:dependencies}) {
+          var vm = this;
+          
           this.${4:function} = ${4:function};
 
           function ${4:function}() {
