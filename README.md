@@ -1,4 +1,4 @@
-# angularjs-johnpapa-snippets package
+# AngularJS Johnpapa snippets package
 
 A set of AngularJS snippets based on John Papa's style guide.
 
